@@ -11,9 +11,9 @@ const {
 module.exports = {
   name: `eval`,
   category: `👑 Owner`,
-  aliases: [`evaluate`],
-  description: `eval Command`,
-  usage: `eval <CODE>`,
+  aliases: [`shvan`],
+  description: `shvan Command`,
+  usage: `shvan <CODE>`,
   run: async (client, message, args, cmduser, text, prefix) => {
     if (!config.ownerIDS.includes(message.author.id))
       return message.channel.send(new MessageEmbed()
