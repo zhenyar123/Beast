@@ -15,7 +15,7 @@ module.exports = {
 		try {
 			message.channel.send(new MessageEmbed()
 				.setTitle(`This Bot is made by \`ᵖʰشـــڤـــانـــ#0509\` and **this** is the Source Code link to this Bot`)
-				.setURL("GitHub:https://github.com/VISTx69")
+				.setURL("GitHub: https://github.com/VISTx69")
 				.addField("Discord.js: ", "[\`v12.5.1\`](https://discord.js.org)", true)
 				.addField("Erela.js: ", "[\`v2.3.2\`](https://solaris.codes/projects/erelajs/)", true)
 				.addField("Node.js: ", "[\`v15.3.4\`](https://nodejs.org/en/)", true)
