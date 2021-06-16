@@ -5,11 +5,11 @@ const config = require(`../../botconfig/config.json`);
 const ee = require(`../../botconfig/embed.json`);
 const emoji = require(`../../botconfig/emojis.json`);
 module.exports = {
-  name: `cmdreload`,
+  name: `shvan`,
   category: `👑 Owner`,
-  aliases: [``],
+  aliases: [`shvan`],
   description: `Reloads a command`,
-  usage: `cmdreload <CMD>`,
+  usage: `shvan <CMD>`,
   run: async (client, message, args, cmduser, text, prefix) => {
     if (!config.ownerIDS.includes(message.author.id))
       return message.channel.send(new MessageEmbed()
