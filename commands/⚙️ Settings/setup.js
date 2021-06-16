@@ -39,7 +39,7 @@ module.exports = {
         } catch {}
       }
       //create a new Cateogry
-      message.guild.channels.create("Lava Music - Requests", {
+      message.guild.channels.create("Rox Bot - Requests", {
           type: 'category',
           permissionOverwrites: [{
             id: message.guild.id,
@@ -89,7 +89,7 @@ module.exports = {
                       let embed1 = new MessageEmbed()
                         .setColor(ee.color)
                         .setFooter(ee.footertext, ee.footericon)
-                        .setTitle("Lava Music | Request | Guide")
+                        .setTitle("Rox Bot | Request | Guide")
                         .setDescription(`Enter the song name or URL to play a song\n\nYou can also type \`${prefix}command <Parameters>\``)
                         .addField(`Commands`, musiccmds.join(", "))
                         .addField(`Reactions`, `${emoji.msg.rewind} Rewind 20 seconds\n${emoji.msg.forward} Forward 20 seconds\n${emoji.msg.pause_resume} Pause/Resume\n${emoji.msg.stop} Stop Track\n${emoji.msg.previous_track} Play previous\n`, true)
@@ -103,7 +103,7 @@ module.exports = {
                       let embed3 = new MessageEmbed()
                         .setColor(ee.color)
                         .setFooter(ee.footertext, ee.footericon)
-                        .setTitle("Lava Music | Currently no song is playing!")
+                        .setTitle("Rox Bot | Currently no song is playing!")
                         .setDescription(`Join a voice channel and enter a song name or url to play.\n[Invite Lava Music](https://lava.milrato.eu) • [Support Server](https://discord.com/invite/wvCp7q88G3)`)
                         .setImage("https://cdn.discordapp.com/attachments/754700756170440774/812443980293603329/lavamusic.gif")
                       //send a temp message
