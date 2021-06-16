@@ -19,7 +19,7 @@ module.exports = {
 				.addField("Discord.js: ", "[\`v12.5.1\`](https://discord.js.org)", true)
 				.addField("Erela.js: ", "[\`v2.3.2\`](https://solaris.codes/projects/erelajs/)", true)
 				.addField("Node.js: ", "[\`v15.3.4\`](https://nodejs.org/en/)", true)
-				.addField("Rox link:[invite[()
+				.addField("Rox link: ", "[invite[()
 			        .setColor(ee.color)
 				.setFooter(ee.footertext, ee.footericon)
 			);
