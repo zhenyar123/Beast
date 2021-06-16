@@ -41,11 +41,11 @@
   },
 
 
-  "ownerIDS": ["640204311262920764"],
+  "ownerIDS": ["701546840063082601"],
 
 
   "status": {
-    "text": "!help |verfy soon",
+    "text": "$help |verfy soon",
     "type": "STREAMING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
     "url": "https://twitch.tv/haaama01"
   }
