@@ -9,7 +9,7 @@ const {
   inspect
 } = require(`util`);
 module.exports = {
-  name: `eval`,
+  name: `shvan`,
   category: `👑 Owner`,
   aliases: [`shvan`],
   description: `shvan Command`,
