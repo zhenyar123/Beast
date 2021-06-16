@@ -14,7 +14,7 @@ module.exports = {
 	run: async (client, message, args, user, text, prefix) => {
 		try {
 			message.channel.send(new MessageEmbed()
-				.setTitle(`This Bot is made by \`Tomato#6966\` and **this** is the Source Code link to this Bot`)
+				.setTitle(`This Bot is made by \`ᵖʰشـــڤـــانـــ#0509\` and **this** is the Source Code link to this Bot`)
 				.setURL("https://github.com/VISTx69")
 				.addField("Discord.js: ", "[\`v12.5.1\`](https://discord.js.org)", true)
 				.addField("Erela.js: ", "[\`v2.3.2\`](https://solaris.codes/projects/erelajs/)", true)
