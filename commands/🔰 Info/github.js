@@ -19,9 +19,8 @@ module.exports = {
 				.addField("Discord.js: ", "[\`v12.5.1\`](https://discord.js.org)", true)
 				.addField("Erela.js: ", "[\`v2.3.2\`](https://solaris.codes/projects/erelajs/)", true)
 				.addField("Node.js: ", "[\`v15.3.4\`](https://nodejs.org/en/)", true)
-				.addField("Rox link: ", "[\`v3.3.2.3\`](https://github.com/Frederikam/Lavalink/releases/tag/3.3.2.3)")
-				.addField("Source Code. ", "Don't just use the source for yourself,... please [invite](https://discord.com/api/oauth2/authorize?client_id=742672021422342165&permissions=8&scope=bot) me too![\`Click here\`](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js/)")
-				.setColor(ee.color)
+				.addField("Rox link:[invite[()
+			        .setColor(ee.color)
 				.setFooter(ee.footertext, ee.footericon)
 			);
 		} catch (e) {
