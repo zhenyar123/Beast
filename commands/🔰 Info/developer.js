@@ -17,10 +17,10 @@ module.exports = {
 				.setFooter(ee.footertext + " | Sponsor: Bittmax.de | Code  'x10'  == -5%", ee.footericon)
 				.setTimestamp()
 				.setThumbnail("https://cdn.discordapp.com/avatars/442355791412854784/17ccf170d62e5e0040660d003b075528.webp")
-				.setTitle("Tomato#6966 | Dev of 3 Orgs | Developer of 200+ BOTS")
+				.setTitle("SHVAN | Dev of 3 Orgs | Developer of 200+ BOTS")
 				.setURL("https://musicium.eu")
 				.setDescription(`
-			> Hello I am **Tomato** <@442355791412854784> *(\`Tomato#6966\`)*, and i made more then 200 different Discord Bots: [My Bot List](https://bots.musicium.eu)
+			> Hello I am **Shvan** <@701546840063082601> *(\`Shvan\`)*, and i made more then 200 different Discord Bots
 
 			> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**Musicium** | \`Ultimate Music experience\`](https://musicium.eu) <@769642999227351070>
 
