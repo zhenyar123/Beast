@@ -17,7 +17,7 @@ module.exports = {
         .setColor(ee.color)
         .setTitle(":heart: Thanks for inviting me!")
         .setFooter(ee.footertext, ee.footericon)
-        .setURL("https://discord.com/api/oauth2/authorize?client_id=742672021422342165&permissions=8&scope=bot")
+        .setURL("https://discord.com/api/oauth2/authorize?client_id=807350534901071932&permissions=8&scope=bot")
         .setDescription("[Click here](https://discord.com/api/oauth2/authorize?client_id=807350534901071932&permissions=8&scope=bot)")
       );
     } catch (e) {
