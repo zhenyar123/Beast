@@ -12,7 +12,7 @@ module.exports = {
   usage: "help [Command]",
   description: "Returns all Commmands, or one specific command",
   run: async (client, message, args, user, text, prefix) => {
-    let emojis = ["💪", "💰", "🔰", "🕹️", "🎶", "👀", "⚜️"]
+    let emojis = ["💰", "🔰", "🕹️", "🎶", "👀", "⚜️"]
     try {
       if (args[0]) {
         const embed = new MessageEmbed();
@@ -47,8 +47,6 @@ module.exports = {
           .setFooter("react with the right emoji!", ee.footericon)
           .setTitle("Pick the right Category")
           .setDescription(`
-💪  **==>** To see the **Source Help** Commands
-
 💰  **==>** To see the **Premium** Commands
 
 🔰  **==>** To see the **Information** Commands
