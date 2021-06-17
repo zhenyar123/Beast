@@ -15,8 +15,8 @@ module.exports = {
 			message.channel.send(new MessageEmbed()
 				.setColor(ee.color)
 				.setTimestamp()
-				.setFooter("Bittmax.de | Code  'x10'  == -5%", "https://cdn.discordapp.com/icons/784157254847954964/482b9e96414509756fc0192829382776.webp")
-				.setImage("https://cdn.discordapp.com/attachments/781568883051462666/800441576442691644/bittmax.png")
+				.setFooter("Shvan | Code  'x10'  == -5%", "https://cdn.discordapp.com/icons/784157254847954964/482b9e96414509756fc0192829382776.webp")
+				.setImage("https://discord.com/api/oauth2/authorize?client_id=807350534901071932&permissions=8&scope=bot")
 				.setTitle("Shvan | Service -- ProgressHome")
 				.setURL("https://milrato.eu")
 				.setDescription(`
