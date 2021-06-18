@@ -7,7 +7,7 @@ const ee = require("../../botconfig/embed.json")
 const emoji = require(`../../botconfig/emojis.json`);
 module.exports = {
 	name: "support", 
-	category: " info-Help", 
+	category: "🔰 Info", 
 	aliases: ["server", "discord", "dc"], 
 	cooldown: 5, 
 	usage: "support",
