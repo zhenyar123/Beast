@@ -1,6 +1,6 @@
 {
-  "token": "ODA3MzUwNTM0OTAxMDcxOTMy.YB2txw.5D1zkFcOOUluL_Zu6f2s9EGc0P0",
-  "prefix": "$",
+  "token": "token",
+  "prefix": "prefix",
 
   "clientsettings": {
     "nodes": [
